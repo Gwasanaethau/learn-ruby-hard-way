@@ -1,1 +1,1 @@
-Mark's and Gus' journey through Learn Ruby The Hard Way book.
+Rob’s and Mark’s continuation through Learning Ruby the Hard Way.
